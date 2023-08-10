@@ -1,0 +1,17 @@
+body{
+	margin:0;
+	background-image: linear-gradient(to right, #61a5c2 33.3%, #468faf 44.4%, #2c7da0 55.6%, #2a6f97 66.7%, #014f86 77.8%, #013a63 88.9%, #012a4a 100.0%); 
+	margin:20px;
+}
+svg{
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:0;
+	left:0;
+}
+span{
+	color:white;
+	font-family:sans-serif;
+	opacity:.3;
+}
